@@ -4,7 +4,7 @@ Given a dataset contains information of 400 users in a social network. (User ID,
 
 The goal is to set up a machine learning model to target new users who are more likely to buy the product from your client. 
 
-Mulitple classification techniques were tried and the models' performance were validated by confusion matrix.
+Three classification techniques were tried separately and the models' performance were validated.
 
 ## Logistic Regression
 First we try it out with logistic regression. A linear classification model. We split the data to 300 training set and 100 test set.
