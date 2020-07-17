@@ -15,4 +15,5 @@ Viewing the wcss value generated, we can identify the optimal number of cluster 
 ![](images/wcss.PNG)
 
 Applying the k-means clustering to the dataset we can categorize the customers to 5 groups. The customers from the target group are target customers the marketing team should focus on.
+
 ![](images/k-means.png)
