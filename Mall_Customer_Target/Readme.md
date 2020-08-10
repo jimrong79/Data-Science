@@ -41,6 +41,7 @@ Once the longest vertical line of distance has been found, we can use this to de
 ![](images/clusters_selected.PNG)
 
 Once we have our dendrogram ready and number of clusters determined. We can train/build the Hierarchical Clustering model to determine the clusters each customers belongs to.
+
 ![](images/hc.png)
 
 ### Voilà! We now successfully using hierarachical clustering and k-means clustering process to determined the groups of customers.
