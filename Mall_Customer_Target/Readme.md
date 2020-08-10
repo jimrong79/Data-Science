@@ -29,6 +29,7 @@ Applying the k-means clustering to the dataset we can categorize the customers t
 For distance here I used Euclidean distance for this problem. 
 
 This process is stored in a dendrogram, which later be used to find the optimal number of clusters. The y axis is the euclidean distances between 2 clusters.
+
 ![](images/Dendrogram.png)
 
 
