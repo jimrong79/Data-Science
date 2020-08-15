@@ -26,8 +26,12 @@ Lastly, we need to remove conjugation of verbs. There's no need to separate love
 
 
 After clean up the words, I derived the following word samples.
+
 ![](images/nlp_sample.PNG)
 
 
+## Confusion Matrix
+
 The model eventually reach 75% accuracy by confusion matrix
+
 ![](images/cm.PNG)
